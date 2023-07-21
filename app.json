@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "meals-app",
-    "slug": "meals-app",
+    "name": "expenses-tracker",
+    "slug": "expenses-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "backgroundColor": "#24180f",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
